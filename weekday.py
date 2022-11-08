@@ -31,7 +31,7 @@ def main():
         else:
             print("\n {} is not a number in the week.".format(input_number_as_int))
     except ValueError:
-        print("\nThis is not an integer")
+        print("\nThis is not a number of the week")
 
     print("\n\nDone.")
 
