@@ -9,7 +9,7 @@
 def main():
 
     # input and variables
-    input_number_as_string = input("Enter an number of a week day: ")
+    input_number_as_string = input("Enter week day number 1-7: ")
 
     # process and output
     try:
