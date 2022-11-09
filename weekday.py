@@ -2,8 +2,8 @@
 #
 # Created by: Lucas LeBlanc
 # Created on: Nov 2022
-# ICS3U-Unit3-04.py File,
-# learning if...then...elseif...else... statements in python.
+# ICS3U-Assignment-4-Python,
+# This program tells you what day of the week it is
 
 
 def main():
